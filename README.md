@@ -72,9 +72,10 @@ $ns run
 ``` 
 # OUTPUT
 
-<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/7a2964a8-bf6a-456a-b3d3-9ef3b5c9b345" />
+
 
 <img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/e41e74c3-3a25-4663-a590-cfc0b326c359" />
+<img width="881" height="1600" alt="WhatsApp Image 2026-06-02 at 5 45 18 PM (1)" src="https://github.com/user-attachments/assets/86abbbf1-83e8-4c2a-ac94-c290f6526a2c" />
 
 
 # RESULT
